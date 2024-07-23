@@ -86,7 +86,7 @@
     }
   ],
   "identifier": "com.qn.altstorerepo",
-  "name": "Qn_'s AltStore Repo",
+  "name": "molkifys personal repo",
   "news": [
     {
       "appID": "com.reddit.Reddit",
@@ -97,7 +97,25 @@
       "notify": false,
       "tintColor": "ff4600",
       "title": "RedditFilter is out!"
-    }
+    },
   ],
   "userInfo": {}
 }
+[
+    {
+      "name": "Spoti+",
+      "version": "8.6.42",
+      "down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
+      "category": "Tweaked Apps",
+      "description": "Sposify and Spotilife tweak merged into one app",
+      "bundleID": "com.spotify.client",
+      "appstore": "com.spotify.client",
+      "debs": [
+        "https://usescarlet.com/debs/Spotilife.dylib",
+        "https://usescarlet.com/debs/Sposify.dylib",
+        "https://usescarlet.com/debs/SposifyFix.dylib"
+      ],
+      "changelog": "- Updated Spotilife to v1.8"
+}
+]
+"userInfo": {}
